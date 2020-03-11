@@ -16,4 +16,4 @@ Folder contains API sample scripts for the UO API (V1.0 and V1.1) for the Urban 
 
 ## Report Issues
 
-Please feel free to make issues for questions, suggestions or comments at the [issues](https://github.com/urbanobservatory/uo-api-v1.1/issues).
+Please feel free to make issues for questions, suggestions or comments at the [Issues](https://github.com/urbanobservatory/uo-api-v1.1/issues).
