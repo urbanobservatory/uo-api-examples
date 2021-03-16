@@ -5,10 +5,9 @@ Folder contains API sample scripts for the UO API (V1.0 and V1.1) for the Urban 
 ## API Documentation
 
 - [API v1.1](https://newcastle.urbanobservatory.ac.uk/api_docs/)
-- [API v1](http://uoweb1.ncl.ac.uk/api_page/)
+- ~~[Depricated API v1](http://uoweb1.ncl.ac.uk/api_page/)~~
 
-
-## Further Developments
+## Further Developments by others
 
 - [uo-pythonapi](https://github.com/urbanobservatory/uo-pythonapi) by Samantha Finnigan
 - [uo-client](https://openlab.ncl.ac.uk/gitlab/nkm120/uo-client) by Kyle Montague
