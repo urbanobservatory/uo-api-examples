@@ -1,6 +1,6 @@
 # Urban Observatory API Examples
 
-List of examples utilizing UO APIs and streams.
+List of examples utilizing UO APIs, downloads and streams.
 
 ## Quick Links
 
